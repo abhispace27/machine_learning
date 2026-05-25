@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+openpyxl
+tensorflow; platform_machine != "aarch64"
